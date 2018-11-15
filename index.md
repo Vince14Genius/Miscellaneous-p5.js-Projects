@@ -2,8 +2,6 @@
 
 <hr>
 
-# Miscellaneous p5.js Projects
-
 These demo projects are replicas of famous existing (usually classical) games or projects, used only for teaching purposes in the Codelympians programming club. 
 
 <table>
@@ -12,35 +10,35 @@ These demo projects are replicas of famous existing (usually classical) games or
     <td><b>Description</b></td>
   </tr>
   <tr>
-    <td>2048 P5</td>
+    <td><a href="2048/">2048 P5</a></td>
     <td>A p5.js replica of 2048, without animations or end-game condition check</td>
   </tr>
   <tr>
-    <td>Cell Arena</td>
+    <td><a href="Cell-Arena/">Cell Arena</a></td>
     <td>A basic, singleplayer p5.js replica of Agar.io</td>
   </tr>
   <tr>
-    <td>Codelympians Pong</td>
+    <td><a href="Pong/">Codelympians Pong</a></td>
     <td>A p5.js replica of Pong</td>
   </tr>
   <tr>
-    <td>Flappy Bird</td>
+    <td><a href="Flappy-Bird/">Flappy Bird</a></td>
     <td>A p5.js replica of Flappy Bird</td>
   </tr>
   <tr>
-    <td>Jump-a-Jump</td>
+    <td><a href="Jump/">Jump-a-Jump</a></td>
     <td>A p5.js replica of 微信跳一跳 (a simple platform jumping game on WeChat)</td>
   </tr>
   <tr>
-    <td>Physics Engine (Beta)</td>
+    <td><a href="Physics-Engine-Beta/">Physics Engine (Beta)</a></td>
     <td>A basic physics engine for circles and walls, done in p5.js</td>
   </tr>
   <tr>
-    <td>Piano Tiles</td>
+    <td><a href="Piano-Tiles/">Piano Tiles</a></td>
     <td>A p5.js replica of Piano Tiles, with only the classic game mode</td>
   </tr>
   <tr>
-    <td>Staggering Ugly</td>
+    <td><a href="Staggering-Ugly/">Staggering Ugly</a></td>
     <td>A p5.js replica of Staggering Beauty, with slightly different mechanics</td>
   </tr>
 </table>
